@@ -166,7 +166,7 @@ body{
 }
 
 .header_text, .text {
-    font-family: 'Nunito';
+    font-family: 'Nunito', serif;
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -176,7 +176,7 @@ body{
 }
 
 .text {
-    font-family: 'Nunito';
+    font-family: 'Nunito', serif;
     font-size: 30px;
 }
 
